@@ -1,25 +1,22 @@
 # App-Python-Django
  
  
-*  Le projet est une application réaliser avec Python /Django.
-*  Le travail a été éffectué en groupe 
-*  La Méthode de travail utilisée est celle de la Méthode Dévops.
-
+*  Création d'une application Python /Django.
+*  Le projet est réalisé en groupe, 
+*  La Méthode de travail:la Méthode Dévops.
 
 -  Tout d'abord, on doit installer un environnement virtuelle et un dossier venv 
    afin de pouvoir commencer à créer le projet.
 
--  Il y a deux méthodes pour créer un environnement virtuelle:
+-  Il y a deux méthodes pour créer un environnement virtuelle sur window et mac
 
-1. window et mac
-   Créer un environnement virtuel linux: 
+1. Créer un environnement virtuel linux: 
    Installer une machine virtuel(Oracle VM virtualbox) https://www.virtualbox.org/
    puis installer dans cette machine Ubuntu, debian ou centos etc… afin d’installer un environnement virtuels python(venv)
    https://www.debian.org/index.fr.html
    
-2. window et mac
-   Créer environnement virtuel avec un dossier (venv) 
-   dans Parcharm qui est un environnement de développement intégré pour programmer en python.
+2. Créer environnement virtuel avec un dossier (venv) dans Parcharm 
+   qui est un environnement de développement intégré pour programmer en python.
    Il permet de réaliser des tests unitaires, intrusion et autres...
 
 -  Django est un framework python .
